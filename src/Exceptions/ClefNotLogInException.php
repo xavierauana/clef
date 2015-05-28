@@ -1,0 +1,14 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: adrianexavier
+ * Date: 27/5/15
+ * Time: 4:39 PM
+ */
+
+    namespace Xavierau\Clef\Exceptions;
+
+
+class ClefNotLogInException extends \Exception {
+
+}
